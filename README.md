@@ -1,15 +1,17 @@
+Roonyx AI Academy 2020
+
 Repository for intermediate tasks
 
 How to use:
 
-1 install git to your system
+1. Install git to your system
 
-2 fork from https://github.com/ivankunyankin/ds_school_2020
+2. Fork from this repository
 
-3 git clone https://github.com/YOUR_USERNAME/ds_school_2020.git
+3. Clone your forked repository to the local machine
 
-4 add your task to task N folder
+4. Add your solution to a corresponding folder
 
-5 push changes to your fork of the repo
+5. Push changes to your fork of the repo
 
-6 make a pull request to https://github.com/ivankunyankin/ds_school_2020
+6. Make a pull request to this repository
